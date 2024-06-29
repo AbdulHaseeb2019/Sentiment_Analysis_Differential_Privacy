@@ -1,1 +1,2 @@
-
+MNB_TF_IDF = Multinomial Naive Bayes with TF-IDF vectorized data (IDF-IDF score)
+MNB_BOW = Multinomial Naive Bayes with BOW vectorized data (Frequency of words)
