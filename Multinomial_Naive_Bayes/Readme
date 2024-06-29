@@ -1,2 +1,2 @@
-MNB_TF_IDF = Multinomial Naive Bayes with TF-IDF vectorized data (IDF-IDF score)
-MNB_BOW = Multinomial Naive Bayes with BOW vectorized data (Frequency of words)
+MNB_TF_IDF = Multinomial Naive Bayes with TF-IDF vectorized data (IDF-IDF score) with both Laplace and Gaussian Mechanism of Differential Privacy.
+MNB_BOW = Multinomial Naive Bayes with BOW vectorized data (Frequency of words) with both Laplace and Gaussian Mechanism of Differential Privacy.
