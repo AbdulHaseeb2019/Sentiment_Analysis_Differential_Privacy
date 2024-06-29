@@ -1,1 +1,2 @@
-
+LR_TF_IDF = Logistic Regression with TF-IDF vectorized Data (TF-IDF score of words)
+LR_BOW = Logistic Regression with Bag of Words vectorized Data (Frequency of words)
